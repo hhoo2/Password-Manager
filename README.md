@@ -1,5 +1,7 @@
 
 # Password Manager
+## Author
+- Hay Oo
 
 ![alt text](/logoscreen.png)
 
@@ -54,11 +56,6 @@ This is a simple Password Manager program developed using Python and the Tkinter
 - The program was developed as part of a Udemy Python programming course.
 - The Tkinter library was used for creating the graphical user interface.
 - Random password generation was implemented using Python's `random` module.
-
-## Author
-
-- Hay Oo
-
 
 ---
 
