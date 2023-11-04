@@ -7,9 +7,10 @@
 
 <b><a href="https://replit.com/@HayOo1/Password-Manager" style="color:purple;">Click here to use this program in Replit</a></b>
 
+
 ## Introduction
 
-This is a simple Password Manager program developed using Python and the Tkinter library. The program provides an easy-to-use graphical user interface (GUI) to generate and store website passwords securely. It allows you to generate strong passwords, save them along with the associated website and your email/username, and manage your login information efficiently.
+This is a simple Password Manager program developed using Python and the Tkinter library. The program provides an easy-to-use graphical user interface (GUI) to generate and store website passwords securely. It allows you to generate strong passwords, save them along with the associated website and your email/username, manage your login information, and search for saved passwords efficiently.
 
 ## Features
 
@@ -17,7 +18,10 @@ This is a simple Password Manager program developed using Python and the Tkinter
 
 - **Password Storage:** Save website details, email or username, and passwords securely. The information is stored in a text file for future reference.
 
+- **Search for Passwords:** Easily search for saved passwords using the website name or email/username.
+
 - **Clipboard Integration:** You can easily copy generated passwords to your clipboard, making it convenient to use them for account registration or login.
+
 
 ## Getting Started
 
