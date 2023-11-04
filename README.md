@@ -53,7 +53,10 @@ This is a simple Password Manager program developed using Python and the Tkinter
 
 - **Save Password:** Fill in the website, email/username, and password fields, then click the "Add" button to save the information. The data is stored in a text file named "password_data.txt."
 
+- **Search for Passwords:** Use the "Search" button to find your saved passwords. You can search by website name or email/username.
+
 - **Clipboard Integration:** The generated password is automatically copied to your clipboard for easy pasting.
+
 
 ## Acknowledgments
 
